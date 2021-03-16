@@ -5,5 +5,7 @@ is only focused on Python 3+.
 
 (A quick reference to python libraries that can help with network automation)
 
-####Pexpect
-A simple pseudo terminal library that allows you to interface with CLI. Seems to work best on Unix based systems.
+>#### Pexpect
+>A simple pseudo terminal library that allows you to interface with CLI. Seems to work best on Unix based systems.
+
+>#### Next Subject . . .
